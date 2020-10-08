@@ -3,10 +3,7 @@
 <br />
 <br />
 
-Hi, I'm Ross, a passionate self-taught frontEnd web developer from Ho Chi Minh, Vietnam.
-
-- 🔭 I’m currently working on my project [Deliveree](https://webapp.deliveree.com)
-- 🌱 I’m currently learning GraphQL & Typescript 
+Hi, I'm Ross, a passionate web developer from Ho Chi Minh, Vietnam.
 - 👯 I’m looking to collaborate on [Github](https://github.com/Rossnaive)
 - 💬 Ask me about anything [here](https://github.com/Rossnaive/issues)
 
